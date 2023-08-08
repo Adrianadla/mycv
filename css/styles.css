@@ -467,6 +467,7 @@ h2{
     justify-content:space-between;
     align-items:center;
     overflow:visible;
+    background-color:rgb(250, 243, 243);
   }
 
 }
